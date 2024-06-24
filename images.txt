@@ -1,1 +1,1 @@
-rmohr/activemq:latest
+debian:12.2-slim
