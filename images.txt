@@ -1,1 +1,1 @@
-rancher/mirrored-pause:3.6
+elasticsearch:7.10.1
