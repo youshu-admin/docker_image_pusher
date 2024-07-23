@@ -1,1 +1,1 @@
-mysql:8.0.39
+calico/cni:v3.25.0
