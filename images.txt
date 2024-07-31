@@ -1,1 +1,3 @@
-centos:7.9.2009
+redis:7
+postgres:15
+apachesuperset.docker.scarf.sh/apache/superset:4.0.1
