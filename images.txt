@@ -2,3 +2,4 @@ redis:7
 postgres:15
 apachesuperset.docker.scarf.sh/apache/superset:4.0.1
 openjdk:17.0.1-bullseye
+rancher/local-path-provisioner:v0.0.23
