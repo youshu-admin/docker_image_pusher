@@ -1,1 +1,2 @@
-rancher/mirrored-library-busybox:1.34.1
+longhornio/longhorn-manager:v1.5.1
+longhornio/longhorn-ui:v1.5.1
