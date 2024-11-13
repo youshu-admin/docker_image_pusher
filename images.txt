@@ -1,6 +1,3 @@
 #支持指定架构
 #--platform=linux/arm64 nginx:1.26.2
-vesoft/nebula-metad:v3.8.0
-vesoft/nebula-storaged:v3.8.0
-vesoft/nebula-graphd:v3.8.0
-vesoft/nebula-console:v3.6.0
+python:3.10.10-slim-bullseye
