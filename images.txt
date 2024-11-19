@@ -1,3 +1,3 @@
 #支持指定架构
 #--platform=linux/arm64 nginx:1.26.2
-redis:6.2.16
+hlohaus789/g4f
