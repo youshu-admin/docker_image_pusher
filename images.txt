@@ -1,3 +1,3 @@
 #支持指定架构
 #--platform=linux/arm64 nginx:1.26.2
-docker.io/calico/cni:v3.27.3
+huolalatech/page-spy-web:v2.0.0
