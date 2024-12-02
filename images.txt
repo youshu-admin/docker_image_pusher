@@ -1,3 +1,3 @@
 #支持指定架构
 #--platform=linux/arm64 nginx:1.26.2
-minio/minio:RELEASE.2023-03-20T20-16-18Z
+docker.io/milvusdb/etcd:3.5.5-r2
