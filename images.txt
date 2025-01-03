@@ -1,6 +1,6 @@
 #支持指定架构
 #--platform=linux/arm64 nginx:1.26.2
 
-supersonicbi/supersonic:0.9.10-SNAPSHOT
+openjdk:11.0.16-jdk
 
 
