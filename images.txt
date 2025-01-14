@@ -1,6 +1,6 @@
 #支持指定架构
 #--platform=linux/arm64 nginx:1.26.2
 
-redis:6.2.17
+rabbitmq:4.0.5-management
 
 
