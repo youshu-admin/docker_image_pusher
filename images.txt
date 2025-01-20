@@ -1,5 +1,10 @@
 #支持指定架构
 #--platform=linux/arm64 nginx:1.26.2
-elasticsearch:8.8.1
-
+onyxdotapp/onyx-backend:latest
+onyxdotapp/onyx-web-server:latest
+onyxdotapp/onyx-model-server:latest
+postgres:15.2-alpine
+vespaengine/vespa:8.277.17
+nginx:1.23.4-alpine
+redis:7.4-alpine
 
