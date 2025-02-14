@@ -1,3 +1,5 @@
 #支持指定架构
 #--platform=linux/arm64 nginx:1.26.2
-lobehub/lobe-chat:1.53.12
+casbin/casdoor:v1.838.0
+lobehub/lobe-chat-database:1.53.12
+alpine
