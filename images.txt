@@ -1,3 +1,3 @@
 #支持指定架构
 #--platform=linux/arm64 nginx:1.26.2
-mintplexlabs/anythingllm:latest
+milvusdb/milvus:v2.5.
