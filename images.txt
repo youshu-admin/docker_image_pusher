@@ -1,4 +1,5 @@
 #支持指定架构
 #--platform=linux/arm64 nginx:1.26.2
-langgenius/dify-web:release-0.15.3-fix1
+tomcat:9.0.98-jdk8-temurin-noble
+
 
