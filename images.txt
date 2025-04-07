@@ -1,5 +1,6 @@
 #支持指定架构
 #--platform=linux/arm64 nginx:1.26.2
-mysql:8.4.4
+docker.io/bitnami/zookeeper:latest
+docker.io/bitnami/kafka:3.4
 
 
