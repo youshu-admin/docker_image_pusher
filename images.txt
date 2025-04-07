@@ -1,6 +1,4 @@
 #支持指定架构
 #--platform=linux/arm64 nginx:1.26.2
-docker.io/bitnami/zookeeper:latest
-docker.io/bitnami/kafka:3.4
-
+python:3.12-bullseye
 
