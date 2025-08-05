@@ -1,4 +1,3 @@
 #支持指定架构
 #--platform=linux/arm64 nginx:1.26.2
-vimagick/dante:latest
-
+bitnami/kafka:2.5.0
