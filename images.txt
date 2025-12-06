@@ -1,6 +1,7 @@
 nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+docker.getcollate.io/openmetadata/postgresql:1.10.12
+docker.getcollate.io/openmetadata/server:1.10.12
+docker.getcollate.io/openmetadata/ingestion:1.10.12
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
