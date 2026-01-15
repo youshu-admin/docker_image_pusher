@@ -1,4 +1,4 @@
-clickhouse:25.3.2
+erikdubbelboer/phpredisadmin:1.26
 #支持私库
 # kibana:8.12.0
 #支持指定架构
