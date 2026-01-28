@@ -1,5 +1,5 @@
-python:3.11-slim
+#python:3.11-slim
 #支持私库
 # kibana:8.12.0
 #支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 pingcap/tidb:v7.5.7
