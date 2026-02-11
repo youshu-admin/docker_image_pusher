@@ -1,4 +1,4 @@
-pingcap/tidb:v7.5.7
+ubuntu:24.04
 #支持私库
 # kibana:8.12.0
 #支持指定架构
