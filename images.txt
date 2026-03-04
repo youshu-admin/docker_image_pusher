@@ -1,4 +1,4 @@
-bitnamilegacy/etcd:3.5
+bitnamilegacy/redis:8.0
 #支持私库
 # kibana:8.12.0
 #支持指定架构
