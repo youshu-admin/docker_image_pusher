@@ -1,8 +1,4 @@
-redis:8.0
-milvusdb/milvus:v2.5.10
-nsqio/nsq:v1.2.1
-cozedev/coze-studio-server:latest
-cozedev/coze-studio-web:latest
+bitnamilegacy/elasticsearch:8.18.0
 #支持私库
 # kibana:8.12.0
 #支持指定架构
