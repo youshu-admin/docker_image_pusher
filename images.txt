@@ -1,4 +1,4 @@
-minio/minio:RELEASE.2025-06-13T11-33-47Z-cpuv1
+bitnamilegacy/etcd:3.5
 #支持私库
 # kibana:8.12.0
 #支持指定架构
