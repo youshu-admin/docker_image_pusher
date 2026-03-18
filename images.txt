@@ -1,4 +1,5 @@
-apache/doris:be-4.0.1
+apache/doris:be-3.0.8
+apache/doris:fe-3.0.8
 #支持私库
 # kibana:8.12.0
 #支持指定架构
