@@ -1,5 +1,8 @@
-apache/doris:be-3.0.8
-apache/doris:fe-3.0.8
+opensearchproject/opensearch:2.5.0
+marquezproject/marquez:0.51.1
+postgres:14
+marquezproject/marquez-web:0.51.1
+busybox:latest
 #支持私库
 # kibana:8.12.0
 #支持指定架构
