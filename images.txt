@@ -1,4 +1,5 @@
-docker.io/traefik:v3.4.1
+opensearchproject/opensearch:2.11.0
+opensearchproject/opensearch-dashboards:2.11.0
 #支持私库
 # kibana:8.12.0
 #支持指定架构
