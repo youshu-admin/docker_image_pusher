@@ -1,5 +1,7 @@
---platform=linux/amd64 openjdk:8u342
+#--platform=linux/amd64 openjdk:8u342
 #支持私库
 # kibana:8.12.0
 #支持指定架构
 #--platform=linux/arm64 ubuntu:22.04
+postgres:18
+kestra/kestra:latest
