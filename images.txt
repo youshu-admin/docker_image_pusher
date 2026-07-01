@@ -3,5 +3,5 @@
 # kibana:8.12.0
 #支持指定架构
 #--platform=linux/arm64 ubuntu:22.04
-postgres:18
-kestra/kestra:latest
+apache/doris:be-2.1.11
+apache/doris:fe-2.1.11
