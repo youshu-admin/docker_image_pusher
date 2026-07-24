@@ -3,4 +3,4 @@
 # kibana:8.12.0
 #支持指定架构
 #--platform=linux/arm64 ubuntu:22.04
-oven/bun:debian
+lightpanda/browser:nightly
